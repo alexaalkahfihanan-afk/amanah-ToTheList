@@ -1,0 +1,6 @@
+{
+  "name": "Amanah Todo",
+  "description": "A professional, minimalist to-do list with categories, priorities, and persistent local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
